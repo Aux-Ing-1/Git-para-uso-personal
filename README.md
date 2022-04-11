@@ -25,5 +25,4 @@ Deben poseer algún repositorio en GitHub o Gitlab:
 * `git push <<origen>> <<destino>>`
 
 
-
-
+Tengan en cuenta lo siguiente
