@@ -11,18 +11,18 @@ https://victorhckinthefreeworld.com/2016/07/28/git-recuperar-un-archivo-o-todo-e
 
 ## Trabajo en remoto
 Deben poseer algún repositorio en GitHub o Gitlab:
-1. git clone <<url>> para clonar un repositorio en local
-2. git add .
-3. git commit -m "Comentario representativo"
-4. git push
+1. `git clone <<url>> para clonar un repositorio en local`
+2. `git add .`
+3. `git commit -m "Comentario representativo"`
+4. `git push`
 
 ### Resumen de comandos
-git init
-git add <<archivos>>
-git commit -m "algún mensaje representativo"
-git log --oneline
-git checkout <<commit>>
-git push <<origen>> <<destino>>
+`git init`
+`git add <<archivos>>`
+`git commit -m "algún mensaje representativo"`
+`git log --oneline`
+`git checkout <<commit>>`
+`git push <<origen>> <<destino>>`
 
 
 
