@@ -24,6 +24,3 @@ Los comandos 2, 3 y 4 generalmente se hacen uno después del otro para guardar s
 * `git log --oneline` (obtener lista de los commits)
 * `git checkout <<codigo del commit>>` (para volver a algún commit anterior)
 * `git push <<origen>> <<destino>>` (para llevar los cambios guardados al repositorio remoto)
-
-
-Tengan en cuenta lo siguiente, ahora me equivoqué y quiero borrar esto.
