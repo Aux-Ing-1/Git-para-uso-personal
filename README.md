@@ -17,12 +17,12 @@ Deben poseer algún repositorio en GitHub o Gitlab:
 4. `git push`
 
 ### Resumen de comandos
-`git init`
-`git add <<archivos>>`
-`git commit -m "algún mensaje representativo"`
-`git log --oneline`
-`git checkout <<commit>>`
-`git push <<origen>> <<destino>>`
+* `git init`
+* `git add <<archivos>>`
+* `git commit -m "algún mensaje representativo"`
+* `git log --oneline`
+* `git checkout <<commit>>`
+* `git push <<origen>> <<destino>>`
 
 
 
