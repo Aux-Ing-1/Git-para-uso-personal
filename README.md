@@ -8,8 +8,9 @@ Crearás una carpeta donde se ubicará tu proyecto, ingresarás a él y luego in
 Si no tienes un repositorio remoto y quieres ir guardando lo que desarrollas como "checkpoints" apenas agregaste una nueva funcionalidad o tu proyecto está funcionando de pana, haz esto dentro del repositorio: [Tutorial](https://victorhckinthefreeworld.com/2016/07/28/git-recuperar-un-archivo-o-todo-el-repositorio-a-una-version-anterior/)
 
 ## Trabajo en remoto
-Video tutorial sobre el funcionamiento de Git, que corresponde al [Auxiliar 1: Git](https://www.youtube.com/watch?v=kVkZ8_-Byls&ab_channel=Sebasti%C3%A1nCisneros) del curso Ingeniería de Software 1.
-Deben poseer algún repositorio en GitHub o Gitlab:
+Puedes ver el video tutorial sobre el funcionamiento de Git, que corresponde al [Auxiliar 1: Git](https://www.youtube.com/watch?v=kVkZ8_-Byls&ab_channel=Sebasti%C3%A1nCisneros) del curso Ingeniería de Software 1.
+
+Resumen: Deben poseer algún repositorio en GitHub o Gitlab, luego pueden:
 1. `git clone <<url>>` para clonar un repositorio en local
 2. `git add .` para agregar los cambios
 3. `git commit -m "Comentario representativo"` para guardar los cambios
