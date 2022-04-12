@@ -1,4 +1,4 @@
-# Git-para-uso-personal
+# Git-for-one
 Guia para el uso de Git de forma local, remota y personal.
 
 ### Empezar un nuevo proyecto
