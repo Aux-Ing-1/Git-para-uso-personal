@@ -5,7 +5,7 @@ Guia para el uso de Git de forma local, remota y personal.
 Crearás una carpeta donde se ubicará tu proyecto, ingresarás a él y luego inicias el repositorio: [Tutorial](https://www.ecodeup.com/instala-y-crea-tu-primer-repositorio-local-con-git-en-windows/#:~:text=Git%20es%20un%20sistema%20de,haga%20se%20almacenar%C3%A1n%20en%20local%2C)
 
 ## Trabajo en local
-Si no tienes un repositorio remoto y quieres ir guardando lo que desarrollas como "checkpoints" apenas agregaste una nueva funcionalidad o tu proyecto está funcionando de pana, has esto dentro del repositorio: [Tutorial](https://victorhckinthefreeworld.com/2016/07/28/git-recuperar-un-archivo-o-todo-el-repositorio-a-una-version-anterior/)
+Si no tienes un repositorio remoto y quieres ir guardando lo que desarrollas como "checkpoints" apenas agregaste una nueva funcionalidad o tu proyecto está funcionando de pana, haz esto dentro del repositorio: [Tutorial](https://victorhckinthefreeworld.com/2016/07/28/git-recuperar-un-archivo-o-todo-el-repositorio-a-una-version-anterior/)
 
 ## Trabajo en remoto
 Deben poseer algún repositorio en GitHub o Gitlab:
